@@ -1,0 +1,8 @@
+.landing-page {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+        url(https://cdn.discordapp.com/attachments/1176257175983759490/1251408378845073469/NRL_Bingo.png?ex=666e785f&is=666d26df&hm=d1d806705cbc63a07dad9321bd1e1c897fe03cd0c29cf1def484949d0f217783&);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
